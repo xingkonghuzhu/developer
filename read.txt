@@ -5,9 +5,13 @@ Xkhuzhu.com
 test1
 test2
 test3
+<<<<<<< HEAD
 这是我改的
 
 33333333
 =======
 Xkhuzhu.com
 >>>>>>> origin/master
+=======
+这是我改的
+>>>>>>> parent of 556e179... 33333
