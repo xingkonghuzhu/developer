@@ -1,7 +1,5 @@
 ffffffffffffff
 gggggggg
-<<<<<<< HEAD
-<<<<<<< HEAD
 Xkhuzhu.com
 test1
 test2
@@ -9,12 +7,3 @@ test3
 这是我改的
 
 33333333
-=======
-Xkhuzhu.com
->>>>>>> origin/master
-<<<<<<< HEAD
-=======
-Xkhuzhu.com
->>>>>>> parent of 33228c5... test2
-=======
->>>>>>> parent of 48f48da... 1
