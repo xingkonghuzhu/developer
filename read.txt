@@ -1,5 +1,6 @@
 ffffffffffffff
 gggggggg
+<<<<<<< HEAD
 Xkhuzhu.com
 test1
 test2
@@ -7,3 +8,6 @@ test3
 这是我改的
 
 33333333
+=======
+Xkhuzhu.com
+>>>>>>> origin/master
